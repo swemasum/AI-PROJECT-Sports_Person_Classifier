@@ -11,12 +11,12 @@ Here is the folder structure,
 Technologies used in this project,
 
 Python
-Numpy and OpenCV for data cleaning
-Matplotlib & Seaborn for data visualization
-Sklearn for model building
-Jupyter notebook, visual studio code and pycharm as IDE
-Python flask for http server
-HTML/CSS/Javascript for UI
+ 1. Numpy and OpenCV for data cleaning
+ 2. Matplotlib & Seaborn for data visualization
+ 3. Sklearn for model building
+ 4. Jupyter notebook, visual studio code and pycharm as IDE
+ 5. Python flask for http server
+ 6. HTML/CSS/Javascript for UI
 
 Please install all libraries in requiremtns.txt and also install flask server.
 
