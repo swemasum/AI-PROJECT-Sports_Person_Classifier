@@ -23,3 +23,6 @@ HTML/CSS/Javascript for UI
 
 Please install all libraries in requiremtns.txt and also install flask server.
 
+![Screenshot 2024-01-16 172900](https://github.com/swemasum/AI-PROJECT-Sports_Person_Classifier/assets/43910072/4eeff4e8-e305-4743-a043-c527624aa559)
+
+
