@@ -1,16 +1,13 @@
 In this data science and machine learning project, we classify sports personalities. We restrict classification to only 5 people,
 
-Maria Sharapova
-Serena Williams
-Virat Kohli
-Roger Federer
-Lionel Messi
-Here is the folder structure,
+Maria Sharapova, Serena Williams, Virat Kohli, Roger Federer, Lionel Messi
 
-UI : This contains ui website code
-server: Python flask server
-model: Contains python notebook for model building
-images_dataset: Dataset used for our model training
+Here is the folder structure,
+ 1. UI : This contains ui website code
+ 2. server: Python flask server
+ 3. model: Contains python notebook for model building
+ 4. images_dataset: Dataset used for our model training
+
 Technologies used in this project,
 
 Python
