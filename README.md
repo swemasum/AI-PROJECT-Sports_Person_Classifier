@@ -5,8 +5,7 @@ Maria Sharapova, Serena Williams, Virat Kohli, Roger Federer, Lionel Messi
 Here is the folder structure,
  1. UI : This contains ui website code
  2. server: Python flask server
- 3. model: Contains python notebook for model building
- 4. images_dataset: Dataset used for our model training
+ 3. images_dataset: Dataset used for our model training
 
 Technologies used in this project,
 
